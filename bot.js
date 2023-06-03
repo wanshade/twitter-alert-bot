@@ -23,7 +23,7 @@ const client = new TwitterApi({
 
 const bearer = new TwitterApi(process.env.BEARER_TOKEN);
 
-const twitterClient = client.readWrite; // Update variable name from `twClient` to `twitterClient`
+const twitterClient = client.readWrite; 
 const twitterBearer = bearer.readOnly;
 
 const main = async () => {
