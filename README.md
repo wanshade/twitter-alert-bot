@@ -5,7 +5,7 @@ This Project i learn about
 - nodejs,  
 - twitter api v2 
 
- this is my first project learn on web3, espesialy thanks to dappuniversity i got inspiration from this youtube video 
+ this is my first project i learn on web3, espesialy thanks to dappuniversity i got inspiration from this youtube video 
 
 
 [![Watch the video](https://img.youtube.com/vi/u_lwNJobmAI/maxresdefault.jpg)](https://youtu.be/u_lwNJobmAI)
