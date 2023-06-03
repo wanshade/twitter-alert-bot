@@ -1,0 +1,17 @@
+{
+  "name": "new-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that alerts about USDC transfers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wandaem",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "ethers": "^5.6.9",
+    "twitter-api-v2": "^1.15.0"
+  }
+}
