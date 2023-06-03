@@ -12,7 +12,7 @@ const CONTRACT_ABI = JSON.parse(fs.readFileSync('contract-abi.json'));
 const contract = new Contract(CONTRACT_ADDRESS, CONTRACT_ABI, provider);
 
 // Note: USDC uses 6 decimal places
-const TRANSFER_THRESHOLD = 100000000000;
+const TRANSFER_THRESHOLD = 1000000000000;
 
 const client = new TwitterApi({
   appKey: process.env.API_KEY,
